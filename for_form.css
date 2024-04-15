@@ -10,7 +10,7 @@ fieldset {
     font-size: 14px;
     color: #55bebd;
     background-color: #faf3ee;
-    border:#55bebd 1px solid;
+    border:#55bebd 3px dotted;
     border-radius: 4px;
     padding-top: 10px;
     margin-bottom: 18px;
